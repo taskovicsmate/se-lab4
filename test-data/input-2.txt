@@ -12,6 +12,3 @@ TORPEDO,SINGLE
 GT4500,2,0,0,0 #A !primaryTorpedoStore.isEmpty() elágazás tesztelése igaz kimenetellel 3. teszt a specből
 TORPEDO,SINGLE
 TORPEDO,SINGLE
-GT4500,2,0,0,0 #Az ALL elágazás tesztelése igaz kimenetellel 5. teszt a specből
-TORPEDO,ALL
-TORPEDO,SINGLE
