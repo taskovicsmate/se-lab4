@@ -1,0 +1,4 @@
+ #Az ALL elágazás tesztelése igaz kimenetellel 5. teszt a specből
+GT4500,2,0,0,0
+TORPEDO,ALL
+TORPEDO,SINGLE

@@ -1,0 +1,14 @@
+#Tesztek adatai
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE
+GT4500,10,0,10,0 #2.teszt a specből
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,ALL
+GT4500,1,0,0,0 #A !primaryTorpedoStore.isEmpty() elágazás tesztelése Hamis kimenetellel 1.teszt a  specből
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+GT4500,2,0,0,0 #A !primaryTorpedoStore.isEmpty() elágazás tesztelése igaz kimenetellel 3. teszt a specből
+TORPEDO,SINGLE
+TORPEDO,SINGLE

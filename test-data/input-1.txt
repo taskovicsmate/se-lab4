@@ -1,0 +1,4 @@
+#GT4500 tesztelése ami el fog romolni
+GT4500,1,1,1,1
+TORPEDO,ALL
+#elvileg mind a kettőnek hibásnak kell lennie
